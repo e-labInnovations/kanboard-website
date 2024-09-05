@@ -2194,7 +2194,7 @@
   },
   "telegram": {
     "author": "Manu Varkey",
-    "compatible_version": "1.2.22",
+    "compatible_version": "",
     "description": "Receive individual or project notifications on [Telegram](https://telegram.org).",
     "download": "https://github.com/manuvarkey/kanboard-plugin-telegram/releases/download/v1.6.0/Telegram.zip",
     "has_hooks": true,
